@@ -34,5 +34,6 @@ PS C:\Users\86151\Desktop\he-language\c> g++ hello.cpp -o helloss
 PS C:\Users\86151\Desktop\he-language\c> ./helloss.exe
 hello c++ world ! 
 PS C:\Users\86151\Desktop\he-language\c> 
+PS C:\Users\86151\Desktop\he-language\c> g++ hello.cpp -o bin/hello
 
 */
