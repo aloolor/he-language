@@ -1,0 +1,9 @@
+cpp
+命名空间  std::
+cout <<  运算符重载
+cin >> 
+c语言
+printf(%d,v)
+
+int v
+int ret = scanf("%d",&v)
